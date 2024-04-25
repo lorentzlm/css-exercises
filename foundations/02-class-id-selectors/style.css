@@ -1,0 +1,20 @@
+.odd,third {
+    background-color: rgb(255, 97, 97);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#scnd {
+    color: blue;
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#frth {
+    background-color: rgb(116, 255, 116);
+    font-weight: bold;
+    font-size: 24px;
+}
+
