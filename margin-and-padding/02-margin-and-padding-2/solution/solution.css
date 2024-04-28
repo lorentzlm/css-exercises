@@ -1,6 +1,7 @@
 body {
   background: #eee;
   font-family: sans-serif;
+  display: block;
 }
 
 .card {
@@ -39,7 +40,7 @@ We separated it out here to make it extra clear what has changed. */
 }
 
 .title {
-  margin-top: 0;
+  margin-top: 0px;
   margin-bottom: 8px;
   font-size: 16px;
   padding: 8px;
@@ -59,4 +60,5 @@ button {
   display: block;
   margin: 0 auto;
   padding: 8px 24px;
+  text-align: center;
 }
